@@ -1,0 +1,2 @@
+print(type(str(0xf8^0x20)))
+print(chr(0xf8^0x20).encode("Hex"))
